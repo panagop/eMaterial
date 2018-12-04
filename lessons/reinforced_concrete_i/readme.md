@@ -7,5 +7,5 @@
 
 ## Παρουσιάσεις θεωρίας
 
-* [εδώ](presentations/readme.md)
+* [Παρουσιάσεις](presentations/readme.md)
 
