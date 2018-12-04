@@ -4,10 +4,11 @@
 
 * [Υπόδειγμα εργασίας](repairs_ypodeigma.pdf)
 
-## Jupyter notebooks
+## Jupyter notebooks 
 
 * Δοκοί [ipynb αρχείο](../../jupyter_notebooks/kanepe/moment_rotation_beams.ipynb) ή απευθείας στο [nbviewer](http://nbviewer.jupyter.org/github/panagop/eMaterial/blob/master/jupyter_notebooks/kanepe/moment_rotation_beams.ipynb)
 * Στύλοι [ipynb αρχείο](../../jupyter_notebooks/kanepe/moment_rotation_beams.ipynb) ή απευθείας στο [nbviewer](http://nbviewer.jupyter.org/github/panagop/eMaterial/blob/master/jupyter_notebooks/kanepe/moment_rotation_columns.ipynb)
+* [Οδηγίες χρήσης](../../jupyter_notebooks/readme.md)
 
 ## Βιβλιογραφικοί σύνδεσμοι
 
