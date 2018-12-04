@@ -4,3 +4,8 @@
 
 * [Τεύχος σημειώσεων](notes/BetonIBookECv105.pdf)
 * [Παράρτημα (προηγούμενης έκδοσης) με πίνακες και νομογραφήματα](notes/AnnexI_Tables_v02.pdf)
+
+## Παρουσιάσεις θεωρίας
+
+* [εδώ](presentations/slideshares.md)
+
