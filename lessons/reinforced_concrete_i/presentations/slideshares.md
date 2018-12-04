@@ -1,7 +1,13 @@
 ## Παρουσιάσεις 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/LP5SmHIQKW01TI" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe>
-
+* [Εισαγωγή](BetonI_Lesson01.pdf)
+* [Η μέθοδος των οριακών καταστάσεων](BetonI_Lesson02.pdf)
+* [Κανόνες κατασκευαστικής διαμόρφωσης](BetonI_Lesson03.pdf)
+* [Διαστασιολόγηση για μεγέθη ορθής έντασης – Κάμψη δοκών](BetonI_Lesson04.pdf)
+* [Κάμψη δοκών (συνέχεια) - Πλακοδοκοί](BetonI_Lesson05.pdf)
+* [Διαστασιολόγηση δοκών σε διάτμηση](BetonI_Lesson06.pdf)
+* [Διαστασιολόγηση υποστυλωμάτων](BetonI_Lesson07.pdf)
+* [Διαστασιολόγηση πλακών από Ο/Σ](BetonI_Lesson08.pdf)
+* [Διαστασιολόγηση πλακών από Ο/Σ (συνέχεια)](BetonI_Lesson09.pdf)
+* [Παραδείγματα φορτίσεων δομικών στοιχείων](BetonI_Lesson10.pdf)
+* [Όλες οι παρουσιάσεις σε ένα αρχείο](betonI_presentations_all.pdf)
