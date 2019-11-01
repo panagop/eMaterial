@@ -7,10 +7,15 @@
 
 ## Παρουσιάσεις
 
+* [01-Εισαγωγή](presentations/01-Intro.pdf)
+* [02-Ικανοτικός σχεδιασμός](presentations/02-CapacityDesign.pdf)
+* [03-Σεισμικές δράσεις](presentations/03-SeismicAction.pdf)
+* 04-Επανάληψη σχεδιασμού δοκών για κατακόρυφα φορία (βλ. Κατασκευές Ο/Σ Ι)
+* [05-Σχεδιασμός δοκών (μέρος 1)](presentations/05-BeamDesing(part1).pdf)
 
 
 ## Βοηθήματα για την εργασία του εργαστηρίου
 
-* [Υπόδειγμα εργασίας](betonii_ypodeigma.pdf)
-* [Υπόδειγμα κατασκευαστικού σχεδίου](betonii_sxedio.pdf)
-* [Παράδειγμα προμέτρησης](betonii_prometrisi.xlsx)
+* [Υπόδειγμα εργασίας](lab/betonii_ypodeigma.pdf)
+* [Υπόδειγμα κατασκευαστικού σχεδίου](lab/betonii_sxedio.pdf)
+* [Παράδειγμα προμέτρησης](lab/betonii_prometrisi.xlsx)
