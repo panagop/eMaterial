@@ -12,3 +12,8 @@
 * [Προσομοίωση](lessons/msc_modelling/readme.md)
 * [Τρωτότητα](lessons/msc_vulnerability/readme.md)
 
+# Πρότυπα
+
+## Μεταπτυχιακές διπλωματικές εργασίες
+
+* [Πρότυπο αρχείο MS Word με προτεινόμενη μορφοποίηση](Πρότυπα/MScTemplateDIPAE.docx)
